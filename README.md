@@ -25,8 +25,8 @@ npm install -g serverless
 sls plugin install -n serverless-python-requirements
 sls deploy 
 ```
-** If you want to deploy local Lambda function changes directly without packaging 
-them again using above commands. **
+**If you want to deploy local Lambda function changes directly without packaging 
+them again using above commands.**
 
 ```bash
 sls deploy function -f <lambda_function_name>
