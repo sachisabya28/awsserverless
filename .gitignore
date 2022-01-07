@@ -26,3 +26,4 @@ var/
 .serverless
 .DS_Store
 *.json
+.vscode
